@@ -7,7 +7,9 @@
     "sass",
     "scss",
     "responsive",
-    "framework"
+    "framework",
+    "scss-framework",
+    "css-framework"
   ],
   "maintainers": [
     {
