@@ -32,6 +32,8 @@
     }
   ],
   "scripts": {
+    "rtl": "npm run rtl-sass",
+    "rtl-sass": "node-sass --output-style nested --source-map true knice-rtl.scss css/knice-rtl.css",
     "build-sass": "node-sass --output-style nested --source-map true knice.scss css/knice.css",
     "start": "npm run build-sass -- --watch"
   },
