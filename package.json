@@ -2,6 +2,7 @@
   "name": "knice-css",
   "description": "A CSS framework that's knice and knifty, and totally free to use!",
   "version": "1.0.0",
+  "main": "knice.scss",
   "keywords": [
     "css",
     "sass",
@@ -33,6 +34,7 @@
       "url": "https://creativecommons.org/publicdomain/zero/1.0/"
     }
   ],
+  "private": false,
   "scripts": {
     "rtl": "npm run rtl-sass",
     "rtl-sass": "node-sass --output-style nested --source-map true knice-rtl.scss css/knice-rtl.css",
