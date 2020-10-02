@@ -1,0 +1,33 @@
+{
+  "name": "knice-css",
+  "description": "A CSS framework that's knice and knifty, and totally free to use!",
+  "version": "1.0",
+  "keywords": [
+    "css",
+    "sass",
+    "scss",
+    "responsive",
+    "framework"
+  ],
+  "maintainers": [
+    {
+      "name": "Kim Branzell",
+      "email": "hello@branzell.kim",
+      "web": "https://branzell.kim"
+    }
+  ],
+  "bugs": {
+    "web": "https://github.com/KimBranzell/knicecss/issues"
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git@github.com:KimBranzell/knicecss.git"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "CC0 1.0 Universal",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ]
